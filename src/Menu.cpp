@@ -287,7 +287,7 @@ void Menu::printOneLine(string s, int n) {
 
     cout << s;
 
-    if ( leftOver >= 0 ) {
+    if ( leftOver + n >= 0 ) {
         for (i = 0; i < leftOver + n; i++) {
             cout << bodyFill;
         }
