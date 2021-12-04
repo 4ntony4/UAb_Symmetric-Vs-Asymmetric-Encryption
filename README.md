@@ -9,5 +9,5 @@
 ## Compile
 	g++ -Wall -o out/ciphers src/*.cpp
 	
-## Execução no Replit
+## <img src="img/replit_logo.svg" alt="replit_logo" width="30"/> Execução no Replit 
 Run it on Replit [here](https://replit.com/@DiogoAntao/UAbciphers).
