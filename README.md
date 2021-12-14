@@ -1,4 +1,4 @@
-# Ciphers
+# Symmetric Vs Asymmetric Encryption
 
 [![Replit Ready to Run](https://img.shields.io/badge/Replit-Ready_to_Run-informational?logo=replit&labelColor=white)](https://replit.com/@DiogoAntao/UAbciphers)
 
